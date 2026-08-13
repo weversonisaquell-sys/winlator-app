@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="xodos_bg_primary">#0D0F1A</color>
+    <color name="xodos_bg_secondary">#151827</color>
+    <color name="xodos_surface">#1E2233</color>
+    <color name="xodos_accent">#7B5CFF</color>
+    <color name="xodos_accent_alt">#00E5C7</color>
+    <color name="xodos_accent_warn">#FF5C7A</color>
+    <color name="xodos_text_primary">#F5F5FA</color>
+    <color name="xodos_text_secondary">#A0A4C0</color>
+    <color name="xodos_border">#2C3150</color>
+    <color name="xodos_taskbar">#11131F</color>
+    <color name="xodos_cursor">#00E5C7</color>
+    <color name="xodos_button_pressed">#302B55</color>
+</resources>
