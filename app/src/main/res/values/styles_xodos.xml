@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Xodos.Button">
+        <item name="android:background">@drawable/xodos_button_bg</item>
+        <item name="android:textColor">@color/xodos_text_primary</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <style name="Xodos.IconTile">
+        <item name="android:background">@drawable/xodos_tile_bg</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="Xodos.Taskbar">
+        <item name="android:background">@color/xodos_taskbar</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+</resources>
