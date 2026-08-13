@@ -1,6 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
+    packagingOptions {
+        pickFirst 'lib/*/libFLAC.so'
+        pickFirst 'lib/*/*.so'
+    }
     compileSdk 34
 
     defaultConfig {
